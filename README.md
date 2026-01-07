@@ -20,3 +20,7 @@
 
 ## Fan Tools
 - [F1 Points Calculator](https://github.com/yuyangchee98/F1-Points-Calculator) - An [interactive championship points calculator](https://f1pointscalculator.chyuang.com/) and race simulator for predicting F1 standings.
+
+
+## Visualization
+- [F1 Race Replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive race visualisation and data analysis tool built with Python
