@@ -22,6 +22,7 @@ A curated list of Formula 1 resources, tools, and projects.
 - [FastF1](https://github.com/theOehrly/Fast-F1) - Python package for F1 data
 - [f1dataR](https://github.com/SCasanova/f1dataR) - R package for F1 data
 - [ergast-py](https://github.com/Samuel-Roach/ergast-py) - Python wrapper for the Ergast API
+- [Formula1API](https://github.com/gionoa/Formula1API) - Swift package for accessing F1 data
 
 ## Visualization & Dashboards
 - [F1 Dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
@@ -48,6 +49,7 @@ A curated list of Formula 1 resources, tools, and projects.
 ## Home Assistant Integrations
 - [formulaone-card](https://github.com/marcokreeft87/formulaone-card) - Home Assistant Lovelace card to present Formula One data
 - [f1_sensor](https://github.com/Nicxe/f1_sensor) - Home Assistant integration for F1 race data and live timing
+- [F1MV-Lights-Integration](https://github.com/JustJoostNL/F1MV-Lights-Integration) - Connect smart home lights to MultiViewer for F1
 
 ## Gaming & Simulation
 - [f1-telemetry-client](https://github.com/racehub-io/f1-telemetry-client) - Node UDP client for F1 game telemetry parsing
